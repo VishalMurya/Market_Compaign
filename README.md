@@ -12,10 +12,10 @@
 * Click-Through Rates (CTR): Facebook Ads also outperformed Google AdWords in terms of CTR, suggesting higher engagement with the ads.
 * Cost-Effectiveness: When considering the overall cost-effectiveness, Facebook Ads proved to be more economical, delivering better results for a lower cost.
 
-### Conclusion
+## Conclusion
 The analysis concludes that Facebook Ads are superior to Google AdWords in terms of conversion rates, click-through rates, and overall cost-effectiveness. These findings can help businesses optimize their advertising strategies by choosing the more effective platform for their specific goals.
 
-#### Project Structure
+## Project Structure
 data/: Contains the raw data used for analysis.
 scripts/: Includes scripts for data cleaning, analysis, and visualization.
 reports/: Contains the final report and presentation of findings

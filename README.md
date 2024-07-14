@@ -16,6 +16,6 @@
 The analysis concludes that Facebook Ads are superior to Google AdWords in terms of conversion rates, click-through rates, and overall cost-effectiveness. These findings can help businesses optimize their advertising strategies by choosing the more effective platform for their specific goals.
 
 ## Project Structure
-data/: Contains the raw data used for analysis.
-scripts/: Includes scripts for data cleaning, analysis, and visualization.
-reports/: Contains the final report and presentation of findings
+* data/: Contains the raw data used for analysis.
+* scripts/: Includes scripts for data cleaning, analysis, and visualization.
+* reports/: Contains the final report and presentation of findings
